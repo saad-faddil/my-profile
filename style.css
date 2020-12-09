@@ -1,0 +1,82 @@
+body {
+	background-color: rgb(240,240,240);
+	color: #22577a;
+	font-family: 'Padauk', sans-serif;
+	font-size: 18px;
+}
+h1{
+	font-size: 48px;
+	font-family: 'Permanent Marker', cursive;
+	color: #57cc99;
+	background: white;
+	max-width: 750px;
+	padding:10px;
+	margin: 32px auto;
+	margin-bottom: 60px;
+	border-radius: 20px;
+	box-shadow: 0 15px 35px rgba(30,300,93,.3);
+}
+
+h2{
+	font-size: 27px;
+	color: #80ed99;
+	font-family:monospace;
+}
+
+h4 {
+	font-family: monospace;
+	font-weight: lighter;
+}
+
+img{
+	max-width: 40%;
+	max-height: auto;
+	margin-top: 10px;
+	margin-bottom: 3px;
+	border-radius: 12px;
+	box-shadow: 10px 10px 35px rgba(238,142,75,.4);
+}
+
+a {
+	color: #57cc99;
+	text-decoration: none;
+	transition: color 0.8s ease;
+}
+
+a:hover {
+	color: #80ed99;
+}
+
+div {
+	background: white;
+	padding: 15px;
+	max-width: 650px;
+	margin: 45px auto;
+	border-radius: 4px;
+}
+
+#intro {
+	box-shadow: 5px 5px 35px rgba(255,0,0,.2);
+}
+
+#social {
+	box-shadow: 5px 5px 35px rgba(255,255,0,.4);
+}
+
+.rickroll {
+	font-size: 20px;
+	background-color: rgba(220,220,220,.8);
+	border-radius: 15px;
+	padding: 10px;
+	box-shadow: 10px 15px 35px rgba(50,50,93,.1);
+}
+
+.icons {
+	font-size: 60px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.hobby {
+	box-shadow: 5px 5px 35px rgba(191,239,255,.9);
+}
